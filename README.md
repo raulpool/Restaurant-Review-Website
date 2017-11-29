@@ -6,3 +6,5 @@ This website does have an issue the user chooses to register the browser doesn't
 
 In order to run the application properly WAMP,LAMP, or MAMP needs to be installed in the computer. 
 I wasn't sure how to include my database, and the professor had stated that he didn't want the database as well!
+
+Had to upload as a ZIP file due to the nature of its size and the fact that GitHub has a 100 file limit.
